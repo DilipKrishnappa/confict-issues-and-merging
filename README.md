@@ -3,9 +3,9 @@ trying to know about conflict issue
 
 yelahanka 
 maruthinagar
-
 mouna
 merlin
-
 newtown
 allalsandra
+nes
+ramagondanahalli
