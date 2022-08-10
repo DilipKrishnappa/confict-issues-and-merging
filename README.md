@@ -5,7 +5,10 @@ yelahanka
 maruthinagar
 mouna
 merlin
+honnenhalli
+rajanukunte
 newtown
 allalsandra
 nes
 ramagondanahalli
+
