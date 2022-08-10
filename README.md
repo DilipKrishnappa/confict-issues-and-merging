@@ -11,4 +11,5 @@ newtown
 allalsandra
 nes
 ramagondanahalli
-
+vidyanagar cross
+jalahalli
