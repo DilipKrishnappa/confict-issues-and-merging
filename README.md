@@ -7,3 +7,5 @@ maruthinagar
 mouna
 merlin
 
+newtown
+allalsandra
