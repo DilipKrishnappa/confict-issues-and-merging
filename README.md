@@ -5,3 +5,5 @@ merlin
 
 nes
 ramagondanahalli
+kattigenahalli
+dwarakanagar
