@@ -7,12 +7,12 @@ mouna
 merlin
 honnenhalli
 rajanukunte
-newtown
+dilip
 allalsandra
-nes
+iam dilip
 ramagondanahalli
 kattigenahalli
-dwarakanagar
+kogilu
 vidyanagar cross
 jalahalli
 
